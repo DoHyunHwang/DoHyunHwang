@@ -1,5 +1,6 @@
 ### Hi there 👋
-안녕하세여 저는 프론트엔드 개발자 황도현 입니다~🐵
+안녕하세요! 
+저는 프론트엔드 개발자 황도현 입니다~🐵
 <!--
 **DoHyunHwang/DoHyunHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
