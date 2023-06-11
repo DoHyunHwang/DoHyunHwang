@@ -1,6 +1,5 @@
-### Hi there 👋
-안녕하세요!<br/>
-FrontEnd Developer 황도현 입니다~ 😄
+### 안녕하세요! 👋
+FrontEnd Developer 황도현 입니다 😄
 <!--
 **DoHyunHwang/DoHyunHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
