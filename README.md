@@ -16,7 +16,7 @@ FrontEnd Developer 황도현 입니다 😄<br/>
   <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white">
+  <img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/mobx-FF9955?style=for-the-badge&logo=mobx&logoColor=white">
